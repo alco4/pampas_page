@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pampas_page/static/css/main.4fce828f.chunk.css",
+    "main.js": "/pampas_page/static/js/main.3d130bb1.chunk.js",
+    "main.js.map": "/pampas_page/static/js/main.3d130bb1.chunk.js.map",
+    "runtime~main.js": "/pampas_page/static/js/runtime~main.66197876.js",
+    "runtime~main.js.map": "/pampas_page/static/js/runtime~main.66197876.js.map",
+    "static/css/2.4ed46a55.chunk.css": "/pampas_page/static/css/2.4ed46a55.chunk.css",
+    "static/js/2.7aecf123.chunk.js": "/pampas_page/static/js/2.7aecf123.chunk.js",
+    "static/js/2.7aecf123.chunk.js.map": "/pampas_page/static/js/2.7aecf123.chunk.js.map",
+    "index.html": "/pampas_page/index.html",
+    "precache-manifest.7f7a4f67168f358ca3faa9e806a621ed.js": "/pampas_page/precache-manifest.7f7a4f67168f358ca3faa9e806a621ed.js",
+    "service-worker.js": "/pampas_page/service-worker.js",
+    "static/css/2.4ed46a55.chunk.css.map": "/pampas_page/static/css/2.4ed46a55.chunk.css.map",
+    "static/css/main.4fce828f.chunk.css.map": "/pampas_page/static/css/main.4fce828f.chunk.css.map",
+    "static/media/logo.svg": "/pampas_page/static/media/logo.5d5d9eef.svg"
+  }
+}
